@@ -1,0 +1,13 @@
+.site-logo {
+    width: 130px;
+    height: 67px;
+    display: block;
+    background: url(http://www.tothenew.com/themes/ttnd/images/logo.png) no-repeat 0 0;
+    text-indent: -9999px;
+    color: black
+}
+
+
+.bg-light {
+    background-color: #333c4e!important;
+}

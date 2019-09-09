@@ -1,0 +1,12 @@
+.page-link {
+    color: rgb(49, 160, 125);
+    cursor: pointer;
+}
+.page-table{
+    margin: 5px 2px;
+    border-top: 1px solid #fefefe;
+}
+.selected-nav{
+        background-color:rgb(49, 160, 125);
+        color: white;
+      }

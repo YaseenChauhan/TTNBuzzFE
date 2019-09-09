@@ -1,0 +1,7 @@
+.nav-pills .nav-link.active, .show>.nav-pills .nav-link {
+    color: #fff;
+    background-color: #1abc9c;
+}
+nav flex-column nav-pills{
+    margin: 5px;
+}
